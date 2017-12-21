@@ -1,4 +1,4 @@
 # jsonpre
 make json look pretty.
 # installation
-copy `jsonpre.php` into your bin path, and give it execute permission with `chmod +x`.
+move `jsonpre.php` into your bin path and rename as `jsonpre`, and give it execute permission with `chmod +x`.
